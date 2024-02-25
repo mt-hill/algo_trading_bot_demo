@@ -31,7 +31,7 @@ Keep visiting the demo app to see how it performs over time.
 > - Backtesting trading strategies
 > - Testing, running and deploying bots
 > - Building personal bots suited to your requirements.
-### mthill.developer@gmail.com
+### mth.developer@outlook.com
   
 
 
