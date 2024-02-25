@@ -15,7 +15,7 @@ Fully automated, meaning you can let it do its thing. Unless you need to manage 
 
 The demo app is replicating real trades based on real BTC price action. It's trading a strategy which I have backtested and is profitable as you can see from the profits and wins. The winrate, trades and profits are close to being 100% accurate. For the sake of the demostration, it doesn't take into consideration trading fees and slippage. I wont disclose the trading strategy and have removed the trading logic from the code.
 
-Keep visiting the app to see how it performs over time.
+Keep visiting the demo app to see how it performs over time.
 
 ## Notes
 
@@ -26,7 +26,7 @@ Keep visiting the app to see how it performs over time.
 - *Certain features of the app have been disabled for the demo.*
 
 ## Contact
-#### *If you have any enquiries, such as hiring me or working with me, contact me below. I can help with backtesting strategies, deploying and getting bots running or I can build personal bots suited to your requirements. Let me know.*
+#### *If you have any enquiries, such as hiring me or working with me, contact me below. I can help with backtesting trading strategies, testing, running and deploying bots or I can build personal bots suited to your requirements. Let me know.*
 ### mthill.developer@gmail.com
 
 
