@@ -26,8 +26,14 @@ Keep visiting the demo app to see how it performs over time.
 - *Certain features of the app have been disabled for the demo.*
 
 ## Contact
-#### *If you have any enquiries, such as hiring me or working with me, contact me below. I can help with backtesting trading strategies, testing, running and deploying bots or I can build personal bots suited to your requirements. Let me know.*
+
+#### *If you have any enquiries, such as hiring or working with me, contact me below. I can help with:*
+> - Backtesting trading strategies
+> - Testing, running and deploying bots
+> - Building personal bots suited to your requirements.
 ### mthill.developer@gmail.com
+  
+
 
 
 
