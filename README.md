@@ -27,7 +27,7 @@
 
 ## Contact
 
-#### *If you have any enquiries, contact me below
+#### *If you have any enquiries, contact me below*
 ### mth.developer@outlook.com
   
 
