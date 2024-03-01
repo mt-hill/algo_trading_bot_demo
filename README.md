@@ -28,8 +28,7 @@
 
 ## Contact
 
-#### *If you have any enquiries, contact me below*
-#### mth.developer@outlook.com
+#### *If you have any enquiries, contact me here: mth.developer@outlook.com*
   
 
 
