@@ -15,8 +15,6 @@
 
 *The demo app is replicating real trades based on real BTC price action. It's using a strategy which I have backtested and is profitable as you can see from the profits and wins. The winrate, trades and profits are close to being 100% accurate. For the sake of the demostration, it doesn't take into consideration trading fees and slippage. I wont disclose the trading strategy and have removed the trading logic from the code.*
 
-*Keep visiting the demo app to see how it performs over time.*
-
 ## Notes
 
 - *This repository is a reconstructed version of an actual trading bot app.*
