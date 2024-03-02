@@ -14,7 +14,7 @@
 
   
 ## Description
-*This trading bot is pretty flexible, it can handle trading on most exchanges with ANY coins listed on the exchange: BTC, ETH, DOGE, PEPE.. whatever. Simple trading strategies or more complex ones, this bot can handle it. Stores multiple trading strategies allowing you to switch between them whenever you need.*
+*This trading bot is pretty flexible, it can handle trading on most exchanges with ANY coins listed on the exchange: BTC, ETH, DOGE, PEPE.. whatever. Simple trading strategies or complex ones, this bot can handle it. Stores multiple trading strategies allowing you to switch between them whenever you need.*
 
 *Stores all price and trade history allowing you to keep track and monitor whats going on. If you need to stop the bot or tweak its settings, it can be done with buttons or simple text input. No coding knowledge necessary.*
 
